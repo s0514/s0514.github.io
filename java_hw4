@@ -1,0 +1,48 @@
+<!doctype html>  <!-- index.html -->
+<html><head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-sacle=1"/>
+  <title>개인 과제 리스트</title>
+  <style>
+  a:link {color:blue; text-decoration:none;} a:visited { color:purple; text-decoration:none;}
+  a:hover { text-decoration:underline;} a:active {color:red; text-decoration:none;}
+  </style>
+  </head>
+<body>
+<h1>송채린 과제 리스트</h3>
+  </ol><hr/>
+  <li> 4주 </li>
+  <ol>
+  <li><a href="https://s0514.github.io/20220921.html">연산자실습1 desktop/moblie용(Ex2_1)</a></li>
+  <li><a href="https://s0514.github.io/20220921.html">연산자실습1 desktop용(Ex2_1)</a></li>
+  </ol><hr/>
+  <ol>
+  <li><a href="https://s0514.github.io/20220921_2.html">연산자실습2 desktop/moblie용(Ex2_2)</a></li>
+  <li><a href="https://s0514.github.io/20220921_2.html">연산자실습2 desktop용(Ex2_2)</a></li>
+  </ol><hr/>
+  <ol>
+  <li><a href="https://s0514.github.io/20220921_3.html">연산자실습3 desktop/moblie용(Ex2_3)</a></li>
+  <li><a href="https://s0514.github.io/20220921_3.html">연산자실습3 desktop용(Ex2_3)</a></li>
+  </ol><hr/>
+  <ol>
+  <li><a href="https://s0514.github.io/20220921_4.html">연산자실습4 desktop/moblie용(Ex2_4)</a></li>
+  <li><a href="https://s0514.github.io/20220921_4.html">연산자실습4 desktop용(Ex2_4)</a></li>
+  </ol><hr/>
+  <ol>
+  <li><a href="https://s0514.github.io/20220921_5.html">연산자실습5 desktop/moblie용(Ex2_5)</a></li>
+  <li><a href="https://s0514.github.io/20220921_5.html">연산자실습5 desktop용(Ex2_5)</a></li>
+  </ol><hr/>
+  <ol>
+  <li><a href="https://s0514.github.io/20220921_6.html">연산자실습6 desktop/moblie용(Ex2_6)</a></li>
+  <li><a href="https://s0514.github.io/20220921_6.html">연산자실습6 desktop용(Ex2_6)</a></li>
+  </ol><hr/>
+  <ol>
+  <li><a href="https://s0514.github.io/20220921_7.html">연산자실습7 desktop/moblie용(Ex2_7)</a></li>
+  <li><a href="https://s0514.github.io/20220921_7.html">연산자실습7 desktop용(Ex2_7)</a></li>
+  </ol><hr/>
+  <ol>
+  <li><a href="https://s0514.github.io/20220921_8.html">연산자실습8 desktop/moblie용(Ex2_8)</a></li>
+  <li><a href="https://s0514.github.io/20220921_8.html">연산자실습8 desktop용(Ex2_8)</a></li>
+  </ol><hr/>
+  </ul>
+</body></html>
